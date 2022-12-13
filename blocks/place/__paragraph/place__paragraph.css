@@ -1,0 +1,41 @@
+.place__paragraph{
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 163%;
+    padding: 0 16px;
+}
+.place__paragraph:nth-of-type(2){
+    padding: 25px 16px 0;
+}
+
+@media (min-width: 768px) {
+    .place__paragraph{
+        padding: 0;
+    }
+
+    .place__paragraph:nth-of-type(2){
+        padding: 25px 0 0;
+    }
+}
+
+
+
+@media (min-width: 1024px) {
+ .place__paragraph{
+     font-size: 18px;
+ }
+    .place__paragraph:nth-of-type(2){
+        padding: 27px 0 0;
+    }
+}
+
+@media (min-width: 1280px) {
+
+    .place__paragraph:nth-of-type(2){
+        padding: 26px 0 0;
+    }
+}
+
+

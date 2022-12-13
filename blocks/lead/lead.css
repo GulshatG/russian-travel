@@ -1,0 +1,17 @@
+.lead{
+    background-color: #2A2C2F;
+    color: white;
+}
+@media (min-width: 1024px) {
+    .lead {
+        padding: 0 48px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .lead {
+        padding: 0 148px;
+
+    }
+
+}

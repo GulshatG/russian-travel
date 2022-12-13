@@ -1,0 +1,42 @@
+.cover__title{
+    padding: 33px 16px 0;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 35px;
+    position: relative;
+    /* or 109% */
+
+    text-align: center;
+
+}
+
+@media (min-width: 768px) {
+    .cover__title{
+        font-size: 72px;
+        line-height: 76px;
+        padding: 115px 104px 0;
+    }
+
+}
+
+@media (min-width: 1024px) {
+    .cover__title{
+
+        padding: 195px 232px 0;
+    }
+
+}
+
+
+@media (min-width: 1280px) {
+
+    .cover__title{
+        font-size: 72px;
+        line-height: 76px;
+        padding: 245px 312px 0;
+    }
+
+
+}

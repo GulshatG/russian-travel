@@ -1,0 +1,14 @@
+.place__image {
+    padding-bottom: 32px;
+    width: 100%;
+
+}
+
+@media (min-width: 768px) {
+
+    .place__image {
+       padding: 0;
+    }
+
+
+}

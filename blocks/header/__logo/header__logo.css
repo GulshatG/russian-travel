@@ -1,0 +1,35 @@
+.header__logo{
+    position: absolute;
+    width: 142px;
+    height: 42px;
+    top: 16px;
+    left:16px;
+}
+
+@media (min-width: 768px) {
+    .header__logo {
+        width: 176px;
+        height: 52px;
+        top: 28px;
+        left: 24px;
+    }
+
+}
+@media (min-width: 1024px) {
+    .header__logo {
+        width: 176px;
+        height: 52px;
+        top: 28px;
+        left: 48px;
+    }
+
+}
+@media (min-width: 1280px) {
+    .header__logo {
+        width: 176px;
+        height: 52px;
+        top: 28px;
+        left: 48px;
+    }
+
+}
