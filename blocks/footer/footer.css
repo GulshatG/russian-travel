@@ -1,7 +1,6 @@
 .footer{
+    max-width: 1280px;
     padding: 64px 118px 24px 16px;
-    background-color: #2A2C2F;
-
     align-items: baseline;
     justify-content: space-between;
 }

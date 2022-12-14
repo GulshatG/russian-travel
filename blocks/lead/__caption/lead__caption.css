@@ -1,4 +1,4 @@
-.lead__caption{
+.lead__caption {
     margin: 0;
     padding: 3px 0 0 16px;
     font-family: Inter, sans-serif;
@@ -10,22 +10,14 @@
 }
 
 @media (min-width: 768px) {
-   .lead__caption{
-       padding: 3px 0 0 24px;
-
-   }
+    .lead__caption {
+        padding: 3px 0 0 24px;
+    }
 
 }
 
 @media (min-width: 1024px) {
-    .lead__caption{
+    .lead__caption {
         padding: 3px 0 0 0;
-
-    }
-}
-
-@media (min-width: 1280px) {
-    .lead__caption{
-
     }
 }
