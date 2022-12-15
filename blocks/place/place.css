@@ -7,6 +7,7 @@
         grid-template-columns: minmax(320px, 340px) minmax( 288px, 352px);
         grid-template-rows: repeat(2, auto);
         column-gap: 28px;
+        row-gap: 48px;
     }
 }
 
